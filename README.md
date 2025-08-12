@@ -9,10 +9,10 @@ apt install screen <br>
 apt install lsof <br>
 
 4- 
-sudo wget -O /usr/bin/badvpn-udpgw "https://github.com/hamedjafari-ir/badvpn-udpgw/raw/main/badvpn-udpgw64"      <br>
+sudo wget -O /bin/badvpn-udpgw "https://github.com/yosoyhendrix/badvpn-udpgw/raw/main/badvpn-udpgw64"      <br>
 
 5-
-sudo chmod +x /usr/bin/badvpn-udpgw <br>
+sudo chmod +x /bin/badvpn-udpgw <br>
 
 6-
 sudo touch /etc/rc.local <br>
